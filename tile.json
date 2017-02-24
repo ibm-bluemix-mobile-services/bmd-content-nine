@@ -1,22 +1,20 @@
 {
 	"action" : {
-		"type" : "url",
-		"text" : "Coming Soon",
-		"link" : "../projects",
-		"description" : "Create your next project",
-		"newTab" : false,
-		"altText" : "Coming Soon"
+		"type": "url",
+		"text" : "Code Starter - Weather",
+		"link": "../../docs/mobile/tutorial_weather.html",
+		"description" : "Use the Weather Code Starter to create your project",
+		"newTab" : true,
+		"altText" : "Code Starter - Weather"
 	},
 	"alternateAction" : {
 		"type" : "url",
-		"text" : "Get Started",
-		"link" : "../create-project?starter=c9d6e253-d123-4d13-8c93-219cce31122a",
-		"description" : "UI Starter - Store Catalog",
+		"text" : "GET STARTED",
+		"link" : "../create-project?starter=fad1d49e-f7b6-3aff-9b53-14673fca4399",
+		"description" : "Code Starter - Weather",
 		"newTab" : false,
-		"altText" : "Get Started"
+		"altText" : "GET STARTED"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
-	"video" : "https://www.youtube.com/embed/cEHyWClBjpc",
-	"hide" : true
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-nine/weather.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-nine/weather.svg"
 }

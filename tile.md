@@ -1,3 +1,3 @@
-# Create Your Next Project
+# Code Starter - Weather
 
-Choose a starter project that best matches your needs. Add Push, Analytics, and Authentication capabilities, and configure your working code!
+Choose the Weather Code Starter to create your project. You can show the current temperature or the weekly forecast for any point on a map.
