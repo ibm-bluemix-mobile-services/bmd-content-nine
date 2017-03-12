@@ -1,3 +1,3 @@
-# Code Starter - Weather
+# Weather Data
 
-Choose the Weather Code Starter to create your project. You can show the current temperature or the weekly forecast for any point on a map.
+Incorporate weather data from The Weather Company into your applications.
